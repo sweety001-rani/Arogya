@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title></title>
+ <link rel="stylesheet" type="text/css" href="/css/style_front.css">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
+
+ <script>
+  function fun1(){
+    window.location.href = "http://localhost:8501/";
+
+  }
+  function fun2(){
+    window.location.href = "talk";
+
+  }
+  function fun3(){
+    window.location.href = "near_by_store";
+
+  }
+
+//   const link = document.querySelector('move');
+// link.addEventListener('click', (event) => {
+//   event.preventDefault(); // Prevent the default navigation behavior
+//   const name =link; // Replace with the actual name
+//   fetch(`/user?name=${name}`)
+//     .then((response) => {
+//       if (response.ok) {
+//         console.log('Name sent successfully');
+//         // Handle the response from the server if needed
+//       } else {
+//         console.error('Failed to send name');
+//         // Handle the error if needed
+//       }
+//     })
+//     .catch((error) => {
+//       console.error('Error sending name:', error);
+//       // Handle the error if needed
+//     });
+// });
+
+
+ </script>
+</head>
+<body id="front_page">
+<header>
+ <div class="mainheader">
+  <div class="logo">
+   <img src="arogya.png">
+  </div>
+
+  <nav id="navbar_hover">
+   <a href="#mainheader"><b>home</b></a>
+   <a href="#service-container"><b>services</b></a>
+   <a href="#about-section"><b>about</b></a>
+   <a href="#contact_page"><b>Contact</b></a>
+  </nav>
+
+  <div class="menubtn">
+   <button> 
+    <%if(user==="Register"){%>
+    <a href="/login_page"><%=user%></a>
+    <%}else{%>
+    <a id="move" href="/detail_page?name=<%=user%>"><%=user%></a>
+    <%}%>
+   </button>
+  </div>
+ </div>
+
+ <main>
+  <section class="left-sec">
+   <h2> We Are Here For Your Care</h2>
+   <h1>Get the best services</h1>
+   <!-- <p>We are here for your care 24/7. Any help just call us.</p> -->
+   <!-- <button>
+     Make an appointment
+   </button> -->
+  </section>
+
+  <!-- <section class="right-sec">
+   <figure>
+    <img src="images/mainbg.png">
+   </figure>
+  </section> -->
+ </main>
+</header>
+<section class="service-container" id="service-container">
+  <h1 class="h-primary text-center">Our Services</h1>
+  <div id="services">
+      <div class="box" >
+           <img src="pic1.jpg" alt=""> 
+           <div onclick="fun1()" class="content">
+          <h2 class="h-secondary text-center">Disease And Symtomps Analysis</h2>
+          <p class="text-center">Here,you can get the symptomps,cure and prevention of different diseases</h2>
+          </p>
+      </div>
+      </div>
+
+      <div class="box">
+           <img src="pic2.jpg" alt=""> 
+           <div onclick="fun2()" class="content">
+          <h2 class="h-secondary text-center">Talk To Doctor</h2>
+          <p class="text-center">Here,we provide you can get the contact details of Doctor in order to ease your medication</h2>
+          </p>
+      </div>
+      </div>
+      <div class="box" >
+           <img src="pic3.jpg" alt=""> 
+           <div onclick="fun3()" class="content">
+          <h2 class="h-secondary text-center">Nearby Stores</h2>
+          <p class="text-center">Here,you can get the name of nearby stores from where you can buy medicines.</h2>
+          </p>
+          </div>
+      </div>
+
+  </div>
+</section> 
+<!-- about -->
+<div id="about-section">
+<div class="about">
+  <div class="inner-section">
+      <h1>About Us</h1>
+      <p class="text">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+          Doloribus velit ducimus, enim inventore earum, eligendi 
+          nostrum pariatur necessitatibus eius dicta a voluptates sit 
+          deleniti autem error eos totam
+           nisi neque voluptates sit deleniti autem error eos totam nisi neque.
+      </p>
+      <div class="skills">
+        <a href="#contact_page">
+          <button>Contact Us</button>
+        </a>
+      </div>
+  </div>
+</div>
+</div>
+<!-- contact_page/ -->
+<div id="contact_page">
+<div class="container">
+    <div class="content_contact">
+      <div class="left-side">
+        <div class="address details">
+          <i class="fas fa-map-marker-alt"></i>
+          <div class="topic">Address</div>
+          <div class="text-one">Hostel B</div>
+          <div class="text-two">Nit Jamshedpur</div>
+        </div>
+        <div class="phone details">
+          <i class="fas fa-phone-alt"></i>
+          <div class="topic">Phone</div>
+          <div class="text-one">+91 8340388155</div>
+          <div class="text-two">+91 9835094064</div>
+        </div>
+        <div class="email details">
+          <i class="fas fa-envelope"></i>
+          <div class="topic">Email</div>
+          <div class="text-one">sweetyrani005@gmail.com</div>
+          <div class="text-two">sweety1411999@gmail.com</div>
+        </div>
+      </div>
+      <div class="right-side">
+        <div class="topic-text">Send us a message</div>
+        <p>If you have any work from me or any types of quries related to my website, you can send me message from here. It's my pleasure to help you.</p>
+      <form action="mail to:sweetyrani005@gmail.com" method="post" enctype="text/plain">
+        <div class="input-box">
+          <input type="text" placeholder="Enter your comment/query">
+        </div>
+        <div class="input-box">
+          <input type="text" placeholder="Enter your email">
+        </div>
+        <div class="input-box message-box">
+          
+        </div>
+        <div class="button"> 
+          <input type="button" value="Send Now" onclick="location.href='mailto:sweetyrani005@gmail.com';" >
+         </div>
+      </form>
+    </div>
+    </div>
+    </div>
+</div>
+
+</body>
+</html>

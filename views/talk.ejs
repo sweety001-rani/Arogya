@@ -1,0 +1,263 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNIKON</title>
+    <link rel="stylesheet" href="/css/talktodoc.css">
+   
+
+<script>
+function fun(){
+  var checkboxes = document.querySelectorAll('input[type="checkbox"]');
+  var selectedValues = [];
+  var age=document.getElementById("age").value;
+  var gender;
+  var male=document.getElementById("male");
+  var female=document.getElementById("female");
+  var phone=document.getElementById("phone").value;
+  var description=document.getElementById("symptom").value;
+
+  if (male.checked) {
+    gender="male";
+  } else if (female.checked) {
+    gender="female";
+  } else {
+    gender="not provided";
+  }
+
+  checkboxes.forEach(function(checkbox) {
+    if (checkbox.checked) {
+      selectedValues.push(checkbox.value);
+    }
+  });
+
+  console.log(selectedValues);
+  console.log(age);
+  console.log(gender);
+  console.log(phone);
+  console.log(description);
+ 
+  var message1="Patient age:"+age+"\n"+"Patient gender:"+gender+"\n"+"Patient mobile no:"+phone+"\n"+"Problems List:";
+  var v=selectedValues.join(", ");
+  message1+=v+"\n";
+  message1+="description:"+description;
+
+  let config ={
+      service: 'gmail',
+      auth :{
+        user:'arogya702@gmail.com',
+        pass:'zlentpmhusgtblww'
+      }
+     }
+    let transporter= nodemailer.createTransport(config);
+    let mailgenerator= new mailgen({
+       theme: "default",
+       product:{
+         name: "unikon",
+         link:"https://mailgen.js/"
+       }
+    })
+    let response ={
+      body:{
+        intro:name,
+        table:{
+           data:{
+            description:message1
+            // {f:"Welcome to Unikon! We're thrilled to have you on board and would like to extend our warmest greetings.",
+            //  s:"Congratulations on successfully logging into your Unikon account. You now have access to a world of exciting features and services designed to enhance your experience Should you have any questions, concerns, or need any assistance, our support team is always here to help.",
+            //  t:"Feel free to reach out to us . Thank you once again for joining Unikon. We look forward to serving you and ensuring a seamless and enjoyable experience. " }
+         }
+        },
+        outro:"looking forward to do more business!!"
+      }
+    }
+     let mail=mailgenerator.generate(response);
+     let message={
+      from:"uarogya702@gmail.com",
+      to:email,
+      subject:"you login successfully",
+      html:mail
+
+     }
+     transporter.sendMail(message).then(()=>{
+      console.log("send succesfully !!");
+     }).catch(error=>{
+      console.log("error!!");
+     });
+     const item1 = new User({
+     
+      email: email,
+      password: password,
+      name: name
+    });
+
+  console.log(message);
+  alert("message sent successfully");
+}
+
+
+</script>
+    
+</head>
+<body align="center">
+   <div class="main">
+    <div class="header">
+        <h2 style="text-align: center;padding-top: 10px;">Rogya predictor</h2>
+     </div>
+      <div class="image">
+          <img src="ask_question_new.png" alt="....">
+      </div>
+      <div class="fex_box">
+          <h3>who is the patient ?</h3>
+          <input type="button" value="me" >
+          <input type="button" value="wife"  >
+          <input type="button" value="father" >
+          <input type="button" value="mother" >
+          <input type="button" value="son" >
+          <input type="button" value="daughter" >
+          <input type="button" value="sister" >
+          <input type="button" value="other" >
+      </div>
+      <div class="patient_information">
+          <span>
+              <h3>Patient age ?</h3>
+              <input id="age" type="number">
+          </span>
+          <span>
+              <h3>Gender</h3>
+              <label for="male"><b>male</b></label>
+              <input type="radio" value="male" name="gender" id="male">
+              <label for="female"><b>female </b></label>
+              <input type="radio" value="female" name="gender" id="female">
+          </span>
+         
+      </div>
+      <div>
+          <h3>doctor will call you on this number !!</h3>
+          <input type="tel" name="phone" id="phone" placeholder="Telephone number ">
+      </div>
+      <h2 style="background-color: rgb(128, 232, 128); height: 30px;">Select health problem</h2>
+      <div class="patient_information">
+           <span>
+             <img src="topicda_1.svg" alt="">
+             <br>
+             <input type="checkbox" value="cold & fever"> 
+             <label>cold & fever</label><hr>
+           </span>
+           <span>
+            <img src="topicda_2.svg" alt=""><br>
+            <input type="checkbox" value="General Physician"> 
+            <label>General Physician</label> <hr>
+          </span>
+          <span>
+            <img src="topicda_3.svg" alt=""><br>
+            <input type="checkbox" value="Skin Problems"> 
+            <label>Skin Problems</label> <hr>
+          </span>
+          <span>
+            <img src="topicda_4.svg" alt=""><br>
+            <input type="checkbox" value="Sexual Problems"> 
+            <label>Sexual Problems</label> <hr>
+          </span>
+          <span>
+            <img src="topicda_5.svg" alt=""><br>
+            <input type="checkbox" value="Women Issues"> 
+            <label>Women Issues</label> <hr>
+          </span>
+          <span>
+            <img src="topicda_6.svg" alt=""><br>
+            <input type="checkbox" value="Hair and Scalp Problems"> 
+            <label>Hair and Scalp Problems</label> <hr>
+          </span>
+          <span>
+            <img src="topicda_7.svg" alt=""><br>
+            <input type="checkbox" value="Pregnancy Problems"> 
+            <label>Pregnancy Problems</label> <hr>
+          </span>
+          <span>
+            <img src="topicda_8.svg" alt=""><br>
+            <input type="checkbox" value="Stress and Mental Health"> 
+            <label>Stress and Mental Health</label> <hr>
+          </span>
+          <span>
+           <img src="topicda_9.svg" alt=""><br>
+           <input type="checkbox" value="Acidity, Gas, Stomach Issues"> 
+           <label>Acidity, Gas, Stomach Issues</label> <hr>
+         </span>
+         <span>
+           <img src="topicda_10.svg" alt=""><br>
+           <input type="checkbox" value="Orthopedics - Bones, Joints Issues"> 
+           <label>Orthopedics - Bones, Joints Issues</label> <hr>
+         </span>
+         <span>
+           <img src="topicda_11.svg" alt=""><br>
+           <input type="checkbox" value="Child/Infant issues"> 
+           <label>Child/Infant issues</label> <hr>
+         </span>
+         <span>
+           <img src="topicda_12.svg" alt=""><br>
+           <input type="checkbox" value="Lab report analysis"> 
+           <label>
+            Lab report analysis
+            </label> <hr>
+         </span>
+         <span>
+           <img src="topicda_13.svg" alt=""><br>
+           <input type="checkbox" value="Neurology"> 
+           <label>Neurology</label> <hr>
+         </span>
+         <span>
+           <img src="topicda_14.svg" alt=""><br>
+           <input type="checkbox" value="Conceiving issues"> 
+           <label>Conceiving issues</label> <hr>
+         </span>
+         <span>
+            <img src="topicda_15.svg" alt=""><br>
+            <input type="checkbox" value="Cardiac issues - Heart Relate issues"> 
+            <label>Cardiac issues - Heart Relate issues</label> <hr>
+          </span>
+          <span>
+            <img src="topicda_16.svg" alt=""><br>
+            <input type="checkbox" value="Diabetes consult"> 
+            <label>Diabetes consult</label> <hr>
+          </span>
+          <span>
+            <img src="topicda_17.svg" alt=""><br>
+            <input type="checkbox" value="Cancer Advice"> 
+            <label>Cancer Advice</label> <hr>
+          </span>
+          <span>
+            <img src="topicda_18.svg" alt=""><br>
+            <input type="checkbox" value="Breast feeding advice"> 
+            <label>Breast feeding advice</label> <hr>
+          </span>
+          <span>
+            <img src="topicda_20.svg" alt=""><br>
+            <input type="checkbox" value="Weight Management"> 
+            <label>Weight Management</label> <hr>
+          </span>
+          <span>
+            <img src="topicda_19.svg" alt=""><br>
+            <input type="checkbox" value="I do not know"> 
+            <label>I do not know</label> <hr>
+          </span>
+      </div>
+      <br>
+      <br>
+      <div>
+        <h3>Tell us the symptom that's bothering you most?</h3>
+        <textarea name="symptom" id="symptom" cols="60" rows="8" placeholder="let us know your health issues in detail..."></textarea>
+      </div>
+      <div>
+          <button onclick="fun()" type="submit">
+              submit
+          </button>
+      </div>
+   </div>
+</body>
+</html>

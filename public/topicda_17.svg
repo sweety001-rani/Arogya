@@ -1,0 +1,428 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61.429" height="68.531" viewBox="0 0 61.429 68.531">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Clip_148" d="M.132 0h.5v.768h-.5z" class="prefix__cls-1" data-name="Clip 148" transform="translate(.098 .318)"/>
+        </clipPath>
+        <clipPath id="prefix__clip-path-2">
+            <path id="prefix__Clip_297" d="M.012 0h.744v.932H.012z" class="prefix__cls-1" data-name="Clip 297" transform="translate(.756 .401)"/>
+        </clipPath>
+        <clipPath id="prefix__clip-path-3">
+            <path id="prefix__Clip_352" d="M.131 0h.506v.768H.131z" class="prefix__cls-1" data-name="Clip 352" transform="translate(.096 .491)"/>
+        </clipPath>
+        <clipPath id="prefix__clip-path-4">
+            <path id="prefix__Clip_355" d="M.136 0h.5v1.132h-.5z" class="prefix__cls-1" data-name="Clip 355" transform="translate(.102 .609)"/>
+        </clipPath>
+        <clipPath id="prefix__clip-path-5">
+            <path id="prefix__Clip_492" d="M.01 0h.748v.93H.01z" class="prefix__cls-1" data-name="Clip 492" transform="translate(.758 .24)"/>
+        </clipPath>
+        <clipPath id="prefix__clip-path-6">
+            <path id="prefix__Clip_495" d="M.018 0H.75v1.8H.018z" class="prefix__cls-1" data-name="Clip 495" transform="translate(.75 .271)"/>
+        </clipPath>
+        <style>
+            .prefix__cls-1{fill:none}.prefix__cls-3{fill:#c5eb8c}.prefix__cls-10{fill:#fff}.prefix__cls-11{fill:#2d2d2d}.prefix__cls-12{fill:#211f20}.prefix__cls-13{fill:#ffa8ad}
+        </style>
+    </defs>
+    <g id="prefix__ic_cancer" transform="translate(-.768 -.768)">
+        <g id="prefix__Group_685" data-name="Group 685" transform="translate(0 5.531)" style="opacity:.4">
+            <path id="prefix__Fill_1" d="M.976 1.952A.975.975 0 0 1 .979 0a.976.976 0 0 0 0 1.952" class="prefix__cls-3" data-name="Fill 1" transform="translate(30.74 .127)"/>
+            <path id="prefix__Fill_3" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 3" transform="translate(34.643 .127)"/>
+            <path id="prefix__Fill_5" d="M.976 1.426A.972.972 0 0 0 1.944.49C1.345.307.737.147.124 0A.942.942 0 0 0 0 .449a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 5" transform="translate(38.548 .653)"/>
+            <path id="prefix__Fill_7" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 7" transform="translate(32.692 3.054)"/>
+            <path id="prefix__Fill_9" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 9" transform="translate(36.596 3.054)"/>
+            <path id="prefix__Fill_11" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 11" transform="translate(40.499 3.054)"/>
+            <path id="prefix__Fill_13" d="M0 .957a.976.976 0 1 0 1.951 0 .936.936 0 0 0-.139-.472C1.506.317 1.192.158.879 0A.967.967 0 0 0 0 .957" class="prefix__cls-3" data-name="Fill 13" transform="translate(44.403 3.074)"/>
+            <path id="prefix__Fill_15" d="M.005.976A.977.977 0 0 1 .979 0a.976.976 0 0 0 0 1.952.976.976 0 0 1-.974-.976" class="prefix__cls-3" data-name="Fill 15" transform="translate(30.741 5.982)"/>
+            <path id="prefix__Fill_17" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 17" transform="translate(34.643 5.983)"/>
+            <path id="prefix__Fill_19" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 19" transform="translate(38.548 5.983)"/>
+            <path id="prefix__Fill_21" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 21" transform="translate(42.451 5.983)"/>
+            <path id="prefix__Fill_23" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 23" transform="translate(46.355 5.983)"/>
+            <path id="prefix__Fill_25" d="M.976 1.554a.966.966 0 0 0 .713-.319C1.211.807.716.4.212 0A.947.947 0 0 0 0 .578a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 25" transform="translate(50.258 6.38)"/>
+            <path id="prefix__Fill_27" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 27" transform="translate(32.692 8.91)"/>
+            <path id="prefix__Fill_29" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 29" transform="translate(36.596 8.91)"/>
+            <path id="prefix__Fill_31" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 31" transform="translate(40.499 8.91)"/>
+            <path id="prefix__Fill_33" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 33" transform="translate(44.403 8.91)"/>
+            <path id="prefix__Fill_35" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 35" transform="translate(48.307 8.91)"/>
+            <path id="prefix__Fill_37" d="M0 .976a.976.976 0 1 0 1.951 0 1.008 1.008 0 0 0-.02-.106C1.669.585 1.4.307 1.131.032A.958.958 0 0 0 .976 0 .976.976 0 0 0 0 .976" class="prefix__cls-3" data-name="Fill 37" transform="translate(52.211 8.91)"/>
+            <path id="prefix__Fill_39" d="M.005.976A.976.976 0 0 1 .979 0a.976.976 0 0 0 0 1.952.976.976 0 0 1-.974-.976" class="prefix__cls-3" data-name="Fill 39" transform="translate(30.741 11.838)"/>
+            <path id="prefix__Fill_41" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 41" transform="translate(34.643 11.838)"/>
+            <path id="prefix__Fill_43" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 43" transform="translate(38.548 11.838)"/>
+            <path id="prefix__Fill_45" d="M.976 0a.976.976 0 1 0 .976.976A.977.977 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 45" transform="translate(42.451 11.838)"/>
+            <path id="prefix__Fill_47" d="M.976 0a.976.976 0 1 0 .976.976A.977.977 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 47" transform="translate(46.355 11.838)"/>
+            <path id="prefix__Fill_49" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 49" transform="translate(50.258 11.838)"/>
+            <path id="prefix__Fill_51" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 51" transform="translate(54.162 11.838)"/>
+            <path id="prefix__Fill_53" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 53" transform="translate(32.692 14.766)"/>
+            <path id="prefix__Fill_55" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 55" transform="translate(36.596 14.766)"/>
+            <path id="prefix__Fill_57" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 57" transform="translate(40.499 14.766)"/>
+            <path id="prefix__Fill_59" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 59" transform="translate(44.403 14.766)"/>
+            <path id="prefix__Fill_61" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 61" transform="translate(48.307 14.766)"/>
+            <path id="prefix__Fill_63" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 63" transform="translate(52.211 14.766)"/>
+            <path id="prefix__Fill_65" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 65" transform="translate(56.114 14.766)"/>
+            <path id="prefix__Fill_67" d="M.005.976A.976.976 0 0 1 .979 0a.976.976 0 0 0 0 1.952.976.976 0 0 1-.974-.976" class="prefix__cls-3" data-name="Fill 67" transform="translate(30.741 17.694)"/>
+            <path id="prefix__Fill_69" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 69" transform="translate(34.643 17.694)"/>
+            <path id="prefix__Fill_71" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 71" transform="translate(38.548 17.694)"/>
+            <path id="prefix__Fill_73" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 73" transform="translate(42.451 17.694)"/>
+            <path id="prefix__Fill_75" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 75" transform="translate(46.355 17.694)"/>
+            <path id="prefix__Fill_77" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 77" transform="translate(50.258 17.694)"/>
+            <path id="prefix__Fill_79" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 79" transform="translate(54.162 17.694)"/>
+            <path id="prefix__Fill_81" d="M0 .976a.97.97 0 0 0 1.888.32Q1.639.682 1.364.082A.972.972 0 0 0 0 .976" class="prefix__cls-3" data-name="Fill 81" transform="translate(58.066 17.694)"/>
+            <path id="prefix__Fill_83" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 83" transform="translate(32.692 20.622)"/>
+            <path id="prefix__Fill_85" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 85" transform="translate(36.596 20.622)"/>
+            <path id="prefix__Fill_87" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 87" transform="translate(40.499 20.622)"/>
+            <path id="prefix__Fill_89" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 89" transform="translate(44.403 20.622)"/>
+            <path id="prefix__Fill_91" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 91" transform="translate(48.307 20.622)"/>
+            <path id="prefix__Fill_93" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 93" transform="translate(52.211 20.622)"/>
+            <path id="prefix__Fill_95" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 95" transform="translate(56.114 20.622)"/>
+            <path id="prefix__Fill_97" d="M0 .883a.976.976 0 0 0 .976.977.871.871 0 0 0 .153-.031C.963 1.21.775.6.572 0A.972.972 0 0 0 0 .883" class="prefix__cls-3" data-name="Fill 97" transform="translate(60.018 20.714)"/>
+            <path id="prefix__Fill_99" d="M.976 1.952A.975.975 0 0 1 .979 0a.976.976 0 0 0 0 1.952" class="prefix__cls-3" data-name="Fill 99" transform="translate(30.74 23.549)"/>
+            <path id="prefix__Fill_101" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 101" transform="translate(34.643 23.549)"/>
+            <path id="prefix__Fill_103" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 103" transform="translate(38.548 23.549)"/>
+            <path id="prefix__Fill_105" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 105" transform="translate(42.451 23.549)"/>
+            <path id="prefix__Fill_107" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 107" transform="translate(46.355 23.549)"/>
+            <path id="prefix__Fill_109" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 109" transform="translate(50.258 23.549)"/>
+            <path id="prefix__Fill_111" d="M.976 1.952A.976.976 0 1 0 0 .976a.977.977 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 111" transform="translate(54.162 23.549)"/>
+            <path id="prefix__Fill_113" d="M.976 1.952A.976.976 0 1 0 0 .976a.977.977 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 113" transform="translate(58.066 23.549)"/>
+            <path id="prefix__Fill_115" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 115" transform="translate(32.692 26.477)"/>
+            <path id="prefix__Fill_117" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 117" transform="translate(36.596 26.477)"/>
+            <path id="prefix__Fill_119" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 119" transform="translate(40.499 26.477)"/>
+            <path id="prefix__Fill_121" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 121" transform="translate(44.403 26.477)"/>
+            <path id="prefix__Fill_123" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 123" transform="translate(48.307 26.477)"/>
+            <path id="prefix__Fill_125" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 125" transform="translate(52.211 26.477)"/>
+            <path id="prefix__Fill_127" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 127" transform="translate(56.114 26.477)"/>
+            <path id="prefix__Fill_129" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 129" transform="translate(60.018 26.477)"/>
+            <path id="prefix__Fill_131" d="M.005.016A.1.1 0 0 1 0 0v.016a.976.976 0 0 0 .976.977.976.976 0 0 1-.971-.977" class="prefix__cls-3" data-name="Fill 131" transform="translate(30.741 30.364)"/>
+            <path id="prefix__Fill_133" d="M.976.992a.976.976 0 0 0 .977-.977V0a.976.976 0 0 1-.977.961A.976.976 0 0 1 0 0v.015a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 133" transform="translate(34.643 30.365)"/>
+            <path id="prefix__Fill_135" d="M.976.961A.974.974 0 0 1 0 0v.016a.976.976 0 0 0 .976.976.976.976 0 0 0 .976-.976V0a.976.976 0 0 1-.976.961" class="prefix__cls-3" data-name="Fill 135" transform="translate(38.548 30.365)"/>
+            <path id="prefix__Fill_137" d="M.976.961A.976.976 0 0 1 0 0v.016a.976.976 0 0 0 .976.976.976.976 0 0 0 .977-.976V0a.976.976 0 0 1-.977.961" class="prefix__cls-3" data-name="Fill 137" transform="translate(42.451 30.365)"/>
+            <path id="prefix__Fill_139" d="M1.948 0a.974.974 0 0 1-.972.961A.973.973 0 0 1 0 0v.016a.976.976 0 0 0 .976.976.976.976 0 0 0 .976-.976.161.161 0 0 0 0-.016" class="prefix__cls-3" data-name="Fill 139" transform="translate(46.355 30.365)"/>
+            <path id="prefix__Fill_141" d="M.976.992a.976.976 0 0 0 .977-.977V0a.976.976 0 0 1-.977.961A.976.976 0 0 1 0 0v.015a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 141" transform="translate(50.258 30.365)"/>
+            <path id="prefix__Fill_143" d="M1.948 0a.974.974 0 0 1-.972.961A.973.973 0 0 1 0 0a.161.161 0 0 0 0 .016.976.976 0 0 0 .976.976.976.976 0 0 0 .976-.976.161.161 0 0 0 0-.016" class="prefix__cls-3" data-name="Fill 143" transform="translate(54.162 30.365)"/>
+            <path id="prefix__Fill_145" d="M.976.961A.976.976 0 0 1 0 0v.016a.976.976 0 0 0 .976.976.976.976 0 0 0 .977-.976V0a.976.976 0 0 1-.977.961" class="prefix__cls-3" data-name="Fill 145" transform="translate(58.066 30.365)"/>
+            <g id="prefix__Group_149" data-name="Group 149" transform="translate(61.463 29.963)">
+                <path id="prefix__Clip_148-2" d="M.132 0h.5v.768h-.5z" class="prefix__cls-1" data-name="Clip 148" transform="translate(.098 .318)"/>
+                <g id="prefix__Group_149-2" data-name="Group 149">
+                    <path id="prefix__Fill_147" d="M.276.1a.958.958 0 0 0 .215.585v-.03A.958.958 0 0 1 .28.083.161.161 0 0 0 .276.1" class="prefix__cls-3" data-name="Fill 147" transform="translate(.23 .318)"/>
+                </g>
+            </g>
+            <path id="prefix__Fill_150" d="M.827.211C.549.315.274.426 0 .538a.98.98 0 0 0 .1.019.957.957 0 0 0 .727-.346" class="prefix__cls-3" data-name="Fill 150" transform="translate(19.914 1.522)"/>
+            <path id="prefix__Fill_152" d="M.976 1.52a.976.976 0 0 0 .976-.976A.945.945 0 0 0 1.764 0Q.882.2.02.448a.788.788 0 0 0-.02.1.977.977 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 152" transform="translate(22.938 .559)"/>
+            <path id="prefix__Fill_154" d="M.976 1.952A.976.976 0 1 0 0 .976a.977.977 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 154" transform="translate(26.842 .127)"/>
+            <path id="prefix__Fill_156" d="M.973.976A.976.976 0 0 1 0 1.952.977.977 0 0 0 .979.976.976.976 0 0 0 0 0a.976.976 0 0 1 .973.976" class="prefix__cls-3" data-name="Fill 156" transform="translate(31.719 .126)"/>
+            <path id="prefix__Fill_158" d="M0 .976A.973.973 0 1 0 .973 0 .976.976 0 0 0 0 .976" class="prefix__cls-3" data-name="Fill 158" transform="translate(30.746 .127)"/>
+            <path id="prefix__Fill_160" d="M.587.255C.451.341.315.425.182.514a.967.967 0 0 0 .4-.259" class="prefix__cls-3" data-name="Fill 160" transform="translate(14.283 4.43)"/>
+            <path id="prefix__Fill_162" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 162" transform="translate(17.083 3.054)"/>
+            <path id="prefix__Fill_164" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 164" transform="translate(20.987 3.054)"/>
+            <path id="prefix__Fill_166" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 166" transform="translate(24.89 3.054)"/>
+            <path id="prefix__Fill_168" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 168" transform="translate(28.794 3.054)"/>
+            <path id="prefix__Fill_170" d="M.887 1.759a.976.976 0 0 0 .976-.976A.958.958 0 0 0 1.438 0Q.7.569 0 1.182a.973.973 0 0 0 .887.578" class="prefix__cls-3" data-name="Fill 170" transform="translate(11.317 6.175)"/>
+            <path id="prefix__Fill_172" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 172" transform="translate(15.131 5.983)"/>
+            <path id="prefix__Fill_174" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 174" transform="translate(19.034 5.983)"/>
+            <path id="prefix__Fill_176" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 176" transform="translate(22.938 5.983)"/>
+            <path id="prefix__Fill_178" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 178" transform="translate(26.842 5.983)"/>
+            <path id="prefix__Fill_180" d="M0 0a.977.977 0 0 1 .973.976.976.976 0 0 1-.973.975A.976.976 0 0 0 0 0" class="prefix__cls-3" data-name="Fill 180" transform="translate(31.719 5.983)"/>
+            <path id="prefix__Fill_182" d="M1.946.976a.973.973 0 1 0-.973.976.977.977 0 0 0 .973-.976" class="prefix__cls-3" data-name="Fill 182" transform="translate(30.746 5.982)"/>
+            <path id="prefix__Fill_184" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 184" transform="translate(9.275 8.91)"/>
+            <path id="prefix__Fill_186" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 186" transform="translate(13.179 8.91)"/>
+            <path id="prefix__Fill_188" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 188" transform="translate(17.083 8.91)"/>
+            <path id="prefix__Fill_190" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 190" transform="translate(20.987 8.91)"/>
+            <path id="prefix__Fill_192" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 192" transform="translate(24.89 8.91)"/>
+            <path id="prefix__Fill_194" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 194" transform="translate(28.794 8.91)"/>
+            <path id="prefix__Fill_196" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 196" transform="translate(7.323 11.838)"/>
+            <path id="prefix__Fill_198" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 198" transform="translate(11.227 11.838)"/>
+            <path id="prefix__Fill_200" d="M.976 0a.976.976 0 1 0 .976.976A.977.977 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 200" transform="translate(15.131 11.838)"/>
+            <path id="prefix__Fill_202" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 202" transform="translate(19.034 11.838)"/>
+            <path id="prefix__Fill_204" d="M.976 0a.976.976 0 1 0 .976.976A.977.977 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 204" transform="translate(22.938 11.838)"/>
+            <path id="prefix__Fill_206" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 206" transform="translate(26.842 11.838)"/>
+            <path id="prefix__Fill_208" d="M0 0a.976.976 0 0 1 .973.976.976.976 0 0 1-.973.975.975.975 0 0 0 .979-.975A.976.976 0 0 0 0 0" class="prefix__cls-3" data-name="Fill 208" transform="translate(31.719 11.838)"/>
+            <path id="prefix__Fill_210" d="M1.946.976a.973.973 0 1 0-.973.976.976.976 0 0 0 .973-.976" class="prefix__cls-3" data-name="Fill 210" transform="translate(30.746 11.838)"/>
+            <path id="prefix__Fill_212" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 212" transform="translate(5.372 14.766)"/>
+            <path id="prefix__Fill_214" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 214" transform="translate(9.275 14.766)"/>
+            <path id="prefix__Fill_216" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 216" transform="translate(13.179 14.766)"/>
+            <path id="prefix__Fill_218" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 218" transform="translate(17.083 14.766)"/>
+            <path id="prefix__Fill_220" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 220" transform="translate(20.987 14.766)"/>
+            <path id="prefix__Fill_222" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 222" transform="translate(24.89 14.766)"/>
+            <path id="prefix__Fill_224" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 224" transform="translate(28.794 14.766)"/>
+            <path id="prefix__Fill_226" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 226" transform="translate(3.419 17.694)"/>
+            <path id="prefix__Fill_228" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 228" transform="translate(7.323 17.694)"/>
+            <path id="prefix__Fill_230" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 230" transform="translate(11.227 17.694)"/>
+            <path id="prefix__Fill_232" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 232" transform="translate(15.131 17.694)"/>
+            <path id="prefix__Fill_234" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 234" transform="translate(19.034 17.694)"/>
+            <path id="prefix__Fill_236" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 236" transform="translate(22.938 17.694)"/>
+            <path id="prefix__Fill_238" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 238" transform="translate(26.842 17.694)"/>
+            <path id="prefix__Fill_240" d="M0 0a.976.976 0 0 1 .973.976.976.976 0 0 1-.973.975A.976.976 0 0 0 0 0" class="prefix__cls-3" data-name="Fill 240" transform="translate(31.719 17.694)"/>
+            <path id="prefix__Fill_242" d="M1.946.976a.973.973 0 1 0-.973.976.976.976 0 0 0 .973-.976" class="prefix__cls-3" data-name="Fill 242" transform="translate(30.746 17.694)"/>
+            <path id="prefix__Fill_244" d="M1.551.976A.976.976 0 0 0 .575 0C.561 0 .549.008.534.008Q.244.865 0 1.744a.96.96 0 0 0 .575.208.976.976 0 0 0 .976-.976" class="prefix__cls-3" data-name="Fill 244" transform="translate(1.869 20.621)"/>
+            <path id="prefix__Fill_246" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 246" transform="translate(5.372 20.622)"/>
+            <path id="prefix__Fill_248" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 248" transform="translate(9.275 20.622)"/>
+            <path id="prefix__Fill_250" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 250" transform="translate(13.179 20.622)"/>
+            <path id="prefix__Fill_252" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 252" transform="translate(17.083 20.622)"/>
+            <path id="prefix__Fill_254" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 254" transform="translate(20.987 20.622)"/>
+            <path id="prefix__Fill_256" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 256" transform="translate(24.89 20.622)"/>
+            <path id="prefix__Fill_258" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 258" transform="translate(28.794 20.622)"/>
+            <path id="prefix__Fill_260" d="M.435 0C.376.289.327.581.275.873A.956.956 0 0 0 .493.284.945.945 0 0 0 .435 0" class="prefix__cls-3" data-name="Fill 260" transform="translate(.975 24.241)"/>
+            <path id="prefix__Fill_262" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 262" transform="translate(3.419 23.549)"/>
+            <path id="prefix__Fill_264" d="M.976 1.952A.976.976 0 1 0 0 .976a.977.977 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 264" transform="translate(7.323 23.549)"/>
+            <path id="prefix__Fill_266" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 266" transform="translate(11.227 23.549)"/>
+            <path id="prefix__Fill_268" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 268" transform="translate(15.131 23.549)"/>
+            <path id="prefix__Fill_270" d="M.976 1.952A.976.976 0 1 0 0 .976a.977.977 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 270" transform="translate(19.034 23.549)"/>
+            <path id="prefix__Fill_272" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 272" transform="translate(22.938 23.549)"/>
+            <path id="prefix__Fill_274" d="M.976 1.952A.976.976 0 1 0 0 .976a.977.977 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 274" transform="translate(26.842 23.549)"/>
+            <path id="prefix__Fill_276" d="M.973.976A.977.977 0 0 1 0 1.952.977.977 0 0 0 .979.976.976.976 0 0 0 0 0a.976.976 0 0 1 .973.976" class="prefix__cls-3" data-name="Fill 276" transform="translate(31.719 23.549)"/>
+            <path id="prefix__Fill_278" d="M0 .976A.973.973 0 1 0 .973 0 .977.977 0 0 0 0 .976" class="prefix__cls-3" data-name="Fill 278" transform="translate(30.746 23.55)"/>
+            <path id="prefix__Fill_280" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 280" transform="translate(1.468 26.477)"/>
+            <path id="prefix__Fill_282" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 282" transform="translate(5.372 26.477)"/>
+            <path id="prefix__Fill_284" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 284" transform="translate(9.275 26.477)"/>
+            <path id="prefix__Fill_286" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 286" transform="translate(13.179 26.477)"/>
+            <path id="prefix__Fill_288" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 288" transform="translate(17.083 26.477)"/>
+            <path id="prefix__Fill_290" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 290" transform="translate(20.987 26.477)"/>
+            <path id="prefix__Fill_292" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 292" transform="translate(24.89 26.477)"/>
+            <path id="prefix__Fill_294" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 294" transform="translate(28.794 26.477)"/>
+            <g id="prefix__Group_298" data-name="Group 298" transform="translate(0 29.963)">
+                <path id="prefix__Clip_297-2" d="M.012 0h.744v.932H.012z" class="prefix__cls-1" data-name="Clip 297" transform="translate(.756 .401)"/>
+                <g id="prefix__Group_298-2" data-name="Group 298">
+                    <path id="prefix__Fill_296" d="M.725.016A.161.161 0 0 0 .721 0a.962.962 0 0 1-.678.9v.031A.965.965 0 0 0 .725.016" class="prefix__cls-3" data-name="Fill 296" transform="translate(.743 .401)"/>
+                </g>
+            </g>
+            <path id="prefix__Fill_299" d="M.976.992a.976.976 0 0 0 .977-.977V0a.976.976 0 0 1-.977.961A.976.976 0 0 1 0 0v.015a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 299" transform="translate(3.419 30.365)"/>
+            <path id="prefix__Fill_301" d="M1.948 0a.974.974 0 0 1-.972.961A.973.973 0 0 1 0 0a.161.161 0 0 0 0 .016.976.976 0 0 0 .976.976.976.976 0 0 0 .976-.976.161.161 0 0 0 0-.016" class="prefix__cls-3" data-name="Fill 301" transform="translate(7.324 30.365)"/>
+            <path id="prefix__Fill_303" d="M.976.961A.976.976 0 0 1 0 0v.016a.976.976 0 0 0 .976.976.976.976 0 0 0 .977-.976V0a.976.976 0 0 1-.977.961" class="prefix__cls-3" data-name="Fill 303" transform="translate(11.227 30.365)"/>
+            <path id="prefix__Fill_305" d="M.976.961A.974.974 0 0 1 0 0a.161.161 0 0 0 0 .016.977.977 0 0 0 1.953 0V0a.974.974 0 0 1-.977.961" class="prefix__cls-3" data-name="Fill 305" transform="translate(15.131 30.365)"/>
+            <path id="prefix__Fill_307" d="M.976.992a.976.976 0 0 0 .977-.977V0a.976.976 0 0 1-.977.961A.976.976 0 0 1 0 0v.015a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 307" transform="translate(19.034 30.365)"/>
+            <path id="prefix__Fill_309" d="M1.948 0a.974.974 0 0 1-.972.961A.974.974 0 0 1 0 0v.016a.976.976 0 0 0 .976.976.975.975 0 0 0 .975-.976V0" class="prefix__cls-3" data-name="Fill 309" transform="translate(22.939 30.365)"/>
+            <path id="prefix__Fill_311" d="M.976.961A.976.976 0 0 1 0 0v.016a.976.976 0 0 0 .976.976.976.976 0 0 0 .977-.976V0a.976.976 0 0 1-.977.961" class="prefix__cls-3" data-name="Fill 311" transform="translate(26.842 30.365)"/>
+            <path id="prefix__Fill_313" d="M.973.016A.976.976 0 0 1 0 .992.976.976 0 0 0 .979.016V0a.082.082 0 0 1 0 .015" class="prefix__cls-3" data-name="Fill 313" transform="translate(31.719 30.364)"/>
+            <path id="prefix__Fill_315" d="M1.946 0a.972.972 0 0 1-.97.947H.97A.972.972 0 0 1 0 0a.976.976 0 0 0 .973.977A.976.976 0 0 0 1.946 0" class="prefix__cls-3" data-name="Fill 315" transform="translate(30.746 30.379)"/>
+            <path id="prefix__Fill_317" d="M.005.976A.976.976 0 0 1 .979 0 .977.977 0 0 0 0 .976v.015a.089.089 0 0 1 0-.014" class="prefix__cls-3" data-name="Fill 317" transform="translate(30.741 29.373)"/>
+            <path id="prefix__Fill_319" d="M.387.384V.37a.089.089 0 0 0 0 .014A.1.1 0 0 0 .385.4V.385" class="prefix__cls-3" data-name="Fill 319" transform="translate(30.362 29.981)"/>
+            <path id="prefix__Fill_321" d="M0 0v.015a.973.973 0 0 0 .97.946A.974.974 0 0 1 0 0" class="prefix__cls-3" data-name="Fill 321" transform="translate(30.747 30.365)"/>
+            <path id="prefix__Fill_323" d="M.976.031a.975.975 0 0 1 .973.96V.976A.977.977 0 0 0 0 .976v.015a.975.975 0 0 1 .976-.96" class="prefix__cls-3" data-name="Fill 323" transform="translate(34.643 29.374)"/>
+            <path id="prefix__Fill_325" d="M.973 1.921A.976.976 0 0 0 1.947.96.974.974 0 0 0 0 .96a.976.976 0 0 0 .973.961" class="prefix__cls-3" data-name="Fill 325" transform="translate(34.646 29.404)"/>
+            <path id="prefix__Fill_327" d="M0 .991a.973.973 0 0 1 1.945 0V.976A.976.976 0 0 0 0 .976v.015" class="prefix__cls-3" data-name="Fill 327" transform="translate(38.548 29.374)"/>
+            <path id="prefix__Fill_329" d="M.973 0A.974.974 0 0 0 0 .96a.973.973 0 0 0 1.946 0A.975.975 0 0 0 .973 0" class="prefix__cls-3" data-name="Fill 329" transform="translate(38.551 29.404)"/>
+            <path id="prefix__Fill_331" d="M.976 0A.977.977 0 0 0 0 .976v.015a.974.974 0 0 1 1.947 0V.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 331" transform="translate(42.451 29.374)"/>
+            <path id="prefix__Fill_333" d="M.973 0A.975.975 0 0 0 0 .96a.974.974 0 0 0 1.947 0A.975.975 0 0 0 .973 0" class="prefix__cls-3" data-name="Fill 333" transform="translate(42.454 29.404)"/>
+            <path id="prefix__Fill_335" d="M.976.031a.974.974 0 0 1 .973.96.112.112 0 0 0 0-.015.977.977 0 0 0-1.949 0v.015a.974.974 0 0 1 .976-.96" class="prefix__cls-3" data-name="Fill 335" transform="translate(46.355 29.374)"/>
+            <path id="prefix__Fill_337" d="M.973 1.921A.974.974 0 0 0 1.945.96.973.973 0 0 0 0 .96a.974.974 0 0 0 .973.961" class="prefix__cls-3" data-name="Fill 337" transform="translate(46.358 29.404)"/>
+            <path id="prefix__Fill_339" d="M.976.031a.975.975 0 0 1 .973.96V.976A.977.977 0 0 0 0 .976v.015a.975.975 0 0 1 .976-.96" class="prefix__cls-3" data-name="Fill 339" transform="translate(50.258 29.374)"/>
+            <path id="prefix__Fill_341" d="M.973 1.921A.976.976 0 0 0 1.947.96.974.974 0 0 0 0 .96a.976.976 0 0 0 .973.961" class="prefix__cls-3" data-name="Fill 341" transform="translate(50.261 29.404)"/>
+            <path id="prefix__Fill_343" d="M.976.031a.974.974 0 0 1 .973.96.112.112 0 0 0 0-.015.977.977 0 0 0-1.949 0 .112.112 0 0 0 0 .015.974.974 0 0 1 .976-.96" class="prefix__cls-3" data-name="Fill 343" transform="translate(54.162 29.374)"/>
+            <path id="prefix__Fill_345" d="M.973 1.921A.974.974 0 0 0 1.945.96.973.973 0 0 0 0 .96a.974.974 0 0 0 .973.961" class="prefix__cls-3" data-name="Fill 345" transform="translate(54.166 29.404)"/>
+            <path id="prefix__Fill_347" d="M.976 0A.976.976 0 0 0 0 .976v.015a.974.974 0 0 1 1.947 0V.976A.977.977 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 347" transform="translate(58.066 29.374)"/>
+            <path id="prefix__Fill_349" d="M.973 0A.975.975 0 0 0 0 .96a.974.974 0 0 0 1.947 0A.975.975 0 0 0 .973 0" class="prefix__cls-3" data-name="Fill 349" transform="translate(58.069 29.404)"/>
+            <g id="prefix__Group_353" data-name="Group 353" transform="translate(61.463 29.195)">
+                <path id="prefix__Clip_352-2" d="M.131 0h.506v.768H.131z" class="prefix__cls-1" data-name="Clip 352" transform="translate(.096 .491)"/>
+                <g id="prefix__Group_353-2" data-name="Group 353">
+                    <path id="prefix__Fill_351" d="M.283.679a.947.947 0 0 1 .206-.56v-.03a.949.949 0 0 0-.21.575.112.112 0 0 0 0 .015" class="prefix__cls-3" data-name="Fill 351" transform="translate(.227 .491)"/>
+                </g>
+            </g>
+            <g id="prefix__Group_356" data-name="Group 356" transform="translate(61.463 29.195)">
+                <path id="prefix__Clip_355-2" d="M.136 0h.5v1.132h-.5z" class="prefix__cls-1" data-name="Clip 355" transform="translate(.102 .609)"/>
+                <g id="prefix__Group_356-2" data-name="Group 356">
+                    <path id="prefix__Fill_354" d="M.484 1.132C.487.99.5.85.5.708.5.471.483.237.477 0a.953.953 0 0 0-.205.561.957.957 0 0 0 .212.572" class="prefix__cls-3" data-name="Fill 354" transform="translate(.238 .609)"/>
+                </g>
+            </g>
+            <path id="prefix__Fill_357" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 357" transform="translate(32.692 32.301)"/>
+            <path id="prefix__Fill_359" d="M.976 1.952A.976.976 0 1 0 0 .976a.977.977 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 359" transform="translate(36.596 32.301)"/>
+            <path id="prefix__Fill_361" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 361" transform="translate(40.499 32.301)"/>
+            <path id="prefix__Fill_363" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 363" transform="translate(44.403 32.301)"/>
+            <path id="prefix__Fill_365" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 365" transform="translate(48.307 32.301)"/>
+            <path id="prefix__Fill_367" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 367" transform="translate(52.211 32.301)"/>
+            <path id="prefix__Fill_369" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 369" transform="translate(56.114 32.301)"/>
+            <path id="prefix__Fill_371" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 371" transform="translate(60.018 32.301)"/>
+            <path id="prefix__Fill_373" d="M.005.976A.976.976 0 0 1 .979 0a.976.976 0 0 0 0 1.952.976.976 0 0 1-.974-.976" class="prefix__cls-3" data-name="Fill 373" transform="translate(30.741 35.229)"/>
+            <path id="prefix__Fill_375" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 375" transform="translate(34.643 35.23)"/>
+            <path id="prefix__Fill_377" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 377" transform="translate(38.548 35.23)"/>
+            <path id="prefix__Fill_379" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 379" transform="translate(42.451 35.23)"/>
+            <path id="prefix__Fill_381" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 381" transform="translate(46.355 35.23)"/>
+            <path id="prefix__Fill_383" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 383" transform="translate(50.258 35.23)"/>
+            <path id="prefix__Fill_385" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 385" transform="translate(54.162 35.23)"/>
+            <path id="prefix__Fill_387" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 387" transform="translate(58.066 35.23)"/>
+            <path id="prefix__Fill_389" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 389" transform="translate(32.692 38.157)"/>
+            <path id="prefix__Fill_391" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 391" transform="translate(36.596 38.157)"/>
+            <path id="prefix__Fill_393" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 393" transform="translate(40.499 38.157)"/>
+            <path id="prefix__Fill_395" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 395" transform="translate(44.403 38.157)"/>
+            <path id="prefix__Fill_397" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 397" transform="translate(48.307 38.157)"/>
+            <path id="prefix__Fill_399" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 399" transform="translate(52.211 38.157)"/>
+            <path id="prefix__Fill_401" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 401" transform="translate(56.114 38.157)"/>
+            <path id="prefix__Fill_403" d="M0 .976a.965.965 0 0 0 .662.913c.2-.607.384-1.219.545-1.842A.966.966 0 0 0 .976 0 .976.976 0 0 0 0 .976" class="prefix__cls-3" data-name="Fill 403" transform="translate(60.018 38.157)"/>
+            <path id="prefix__Fill_405" d="M.976 1.952A.975.975 0 0 1 .979 0a.976.976 0 0 0 0 1.952" class="prefix__cls-3" data-name="Fill 405" transform="translate(30.74 41.085)"/>
+            <path id="prefix__Fill_407" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 407" transform="translate(34.643 41.085)"/>
+            <path id="prefix__Fill_409" d="M.976 1.952A.976.976 0 1 0 0 .976a.977.977 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 409" transform="translate(38.548 41.085)"/>
+            <path id="prefix__Fill_411" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 411" transform="translate(42.451 41.085)"/>
+            <path id="prefix__Fill_413" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 413" transform="translate(46.355 41.085)"/>
+            <path id="prefix__Fill_415" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 415" transform="translate(50.258 41.085)"/>
+            <path id="prefix__Fill_417" d="M.976 1.952A.976.976 0 1 0 0 .976a.977.977 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 417" transform="translate(54.162 41.085)"/>
+            <path id="prefix__Fill_419" d="M.976 0a.976.976 0 1 0 0 1.952.955.955 0 0 0 .579-.211c.128-.294.251-.592.371-.89A.964.964 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 419" transform="translate(58.066 41.085)"/>
+            <path id="prefix__Fill_421" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 421" transform="translate(32.692 44.012)"/>
+            <path id="prefix__Fill_423" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 423" transform="translate(36.596 44.012)"/>
+            <path id="prefix__Fill_425" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 425" transform="translate(40.499 44.012)"/>
+            <path id="prefix__Fill_427" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 427" transform="translate(44.403 44.012)"/>
+            <path id="prefix__Fill_429" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 429" transform="translate(48.307 44.012)"/>
+            <path id="prefix__Fill_431" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 431" transform="translate(52.211 44.012)"/>
+            <path id="prefix__Fill_433" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 433" transform="translate(56.114 44.012)"/>
+            <path id="prefix__Fill_435" d="M.976 1.952A.975.975 0 0 1 .979 0a.976.976 0 0 0 0 1.952" class="prefix__cls-3" data-name="Fill 435" transform="translate(30.74 46.94)"/>
+            <path id="prefix__Fill_437" d="M.976 0a.976.976 0 1 0 .976.976A.977.977 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 437" transform="translate(34.643 46.94)"/>
+            <path id="prefix__Fill_439" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 439" transform="translate(38.548 46.94)"/>
+            <path id="prefix__Fill_441" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 441" transform="translate(42.451 46.94)"/>
+            <path id="prefix__Fill_443" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 443" transform="translate(46.355 46.94)"/>
+            <path id="prefix__Fill_445" d="M.976 0a.976.976 0 1 0 .976.976A.977.977 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 445" transform="translate(50.258 46.94)"/>
+            <path id="prefix__Fill_447" d="M.976 0a.976.976 0 1 0 .976.976A.977.977 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 447" transform="translate(54.162 46.94)"/>
+            <path id="prefix__Fill_449" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 449" transform="translate(32.692 49.868)"/>
+            <path id="prefix__Fill_451" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 451" transform="translate(36.596 49.868)"/>
+            <path id="prefix__Fill_453" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 453" transform="translate(40.499 49.868)"/>
+            <path id="prefix__Fill_455" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 455" transform="translate(44.403 49.868)"/>
+            <path id="prefix__Fill_457" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 457" transform="translate(48.307 49.868)"/>
+            <path id="prefix__Fill_459" d="M.976 0a.976.976 0 1 0 .657 1.689l.067-.066a.964.964 0 0 0 .252-.647A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 459" transform="translate(52.211 49.868)"/>
+            <path id="prefix__Fill_461" d="M.976 1.951A.975.975 0 0 1 .979 0a.976.976 0 0 0 0 1.951" class="prefix__cls-3" data-name="Fill 461" transform="translate(30.74 52.796)"/>
+            <path id="prefix__Fill_463" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 463" transform="translate(34.643 52.796)"/>
+            <path id="prefix__Fill_465" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 465" transform="translate(38.548 52.796)"/>
+            <path id="prefix__Fill_467" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 467" transform="translate(42.451 52.796)"/>
+            <path id="prefix__Fill_469" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 469" transform="translate(46.355 52.796)"/>
+            <path id="prefix__Fill_471" d="M.976 0A.976.976 0 0 0 0 .976a.96.96 0 0 0 .371.747C.864 1.33 1.348.927 1.815.5A.964.964 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 471" transform="translate(50.258 52.796)"/>
+            <path id="prefix__Fill_473" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 473" transform="translate(32.692 55.724)"/>
+            <path id="prefix__Fill_475" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 475" transform="translate(36.596 55.724)"/>
+            <path id="prefix__Fill_477" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 477" transform="translate(40.499 55.724)"/>
+            <path id="prefix__Fill_479" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 479" transform="translate(44.403 55.724)"/>
+            <path id="prefix__Fill_481" d="M.218.5C.33.424.439.345.55.269A.968.968 0 0 0 .218.5" class="prefix__cls-3" data-name="Fill 481" transform="translate(48.361 55.53)"/>
+            <path id="prefix__Fill_483" d="M.005.976A.976.976 0 0 1 .979 0a.977.977 0 0 0 0 1.953.976.976 0 0 1-.974-.977" class="prefix__cls-3" data-name="Fill 483" transform="translate(30.741 58.651)"/>
+            <path id="prefix__Fill_485" d="M.976 0a.976.976 0 1 0 .976.976A.977.977 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 485" transform="translate(34.643 58.651)"/>
+            <path id="prefix__Fill_487" d="M.976 0a.972.972 0 0 0-.671 1.679C.841 1.547 1.373 1.4 1.9 1.242a.957.957 0 0 0 .052-.266A.977.977 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 487" transform="translate(38.548 58.651)"/>
+            <path id="prefix__Fill_489" d="M0 .631C.364.489.726.344 1.083.19A.942.942 0 0 0 .829.138.961.961 0 0 0 0 .631" class="prefix__cls-3" data-name="Fill 489" transform="translate(42.598 58.513)"/>
+            <g id="prefix__Group_493" data-name="Group 493" transform="translate(0 29.195)">
+                <path id="prefix__Clip_492-2" d="M.01 0h.748v.93H.01z" class="prefix__cls-1" data-name="Clip 492" transform="translate(.758 .24)"/>
+                <g id="prefix__Group_493-2" data-name="Group 493">
+                    <path id="prefix__Fill_491" d="M.717.93a.112.112 0 0 0 0-.015A.965.965 0 0 0 .048 0v.031a.964.964 0 0 1 .67.9" class="prefix__cls-3" data-name="Fill 491" transform="translate(.747 .24)"/>
+                </g>
+            </g>
+            <g id="prefix__Group_496" data-name="Group 496" transform="translate(0 29.195)">
+                <path id="prefix__Clip_495-2" d="M.018 0H.75v1.8H.018z" class="prefix__cls-1" data-name="Clip 495" transform="translate(.75 .271)"/>
+                <g id="prefix__Group_496-2" data-name="Group 496">
+                    <path id="prefix__Fill_494" d="M.732.9a.964.964 0 0 0-.67-.9C.051.348.036.7.036 1.046c0 .254.012.5.018.754A.962.962 0 0 0 .732.9" class="prefix__cls-3" data-name="Fill 494" transform="translate(.732 .271)"/>
+                </g>
+            </g>
+            <path id="prefix__Fill_497" d="M.976.031a.975.975 0 0 1 .973.96V.976A.977.977 0 0 0 0 .976v.015a.975.975 0 0 1 .976-.96" class="prefix__cls-3" data-name="Fill 497" transform="translate(3.419 29.374)"/>
+            <path id="prefix__Fill_499" d="M.973 1.921A.976.976 0 0 0 1.947.96.974.974 0 0 0 0 .96a.976.976 0 0 0 .973.961" class="prefix__cls-3" data-name="Fill 499" transform="translate(3.423 29.404)"/>
+            <path id="prefix__Fill_501" d="M.976.031a.974.974 0 0 1 .973.96.112.112 0 0 0 0-.015.977.977 0 0 0-1.949 0 .112.112 0 0 0 0 .015.974.974 0 0 1 .976-.96" class="prefix__cls-3" data-name="Fill 501" transform="translate(7.323 29.374)"/>
+            <path id="prefix__Fill_503" d="M.973 1.921A.974.974 0 0 0 1.945.96.973.973 0 0 0 0 .96a.974.974 0 0 0 .973.961" class="prefix__cls-3" data-name="Fill 503" transform="translate(7.327 29.404)"/>
+            <path id="prefix__Fill_505" d="M0 .991a.973.973 0 0 1 1.946 0V.976A.976.976 0 0 0 0 .976v.015" class="prefix__cls-3" data-name="Fill 505" transform="translate(11.227 29.374)"/>
+            <path id="prefix__Fill_507" d="M.973 0A.975.975 0 0 0 0 .96a.974.974 0 0 0 1.947 0A.975.975 0 0 0 .973 0" class="prefix__cls-3" data-name="Fill 507" transform="translate(11.23 29.404)"/>
+            <path id="prefix__Fill_509" d="M0 .991a.972.972 0 0 1 1.945 0V.976A.976.976 0 0 0 0 .976a.112.112 0 0 0 0 .015" class="prefix__cls-3" data-name="Fill 509" transform="translate(15.131 29.374)"/>
+            <path id="prefix__Fill_511" d="M.973 0A.974.974 0 0 0 0 .96a.973.973 0 0 0 1.945 0A.974.974 0 0 0 .973 0" class="prefix__cls-3" data-name="Fill 511" transform="translate(15.134 29.404)"/>
+            <path id="prefix__Fill_513" d="M.976.031a.975.975 0 0 1 .973.96V.976A.977.977 0 0 0 0 .976v.015a.975.975 0 0 1 .976-.96" class="prefix__cls-3" data-name="Fill 513" transform="translate(19.034 29.374)"/>
+            <path id="prefix__Fill_515" d="M.973 1.921A.976.976 0 0 0 1.947.96.974.974 0 0 0 0 .96a.976.976 0 0 0 .973.961" class="prefix__cls-3" data-name="Fill 515" transform="translate(19.037 29.404)"/>
+            <path id="prefix__Fill_517" d="M.976.031a.974.974 0 0 1 .973.96V.976A.976.976 0 0 0 0 .976v.015a.975.975 0 0 1 .976-.96" class="prefix__cls-3" data-name="Fill 517" transform="translate(22.938 29.374)"/>
+            <path id="prefix__Fill_519" d="M.973 1.921A.974.974 0 0 0 1.946.96.973.973 0 0 0 0 .96a.976.976 0 0 0 .973.961" class="prefix__cls-3" data-name="Fill 519" transform="translate(22.941 29.404)"/>
+            <path id="prefix__Fill_521" d="M.976 0A.976.976 0 0 0 0 .976v.015a.974.974 0 0 1 1.947 0V.976A.977.977 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 521" transform="translate(26.842 29.374)"/>
+            <path id="prefix__Fill_523" d="M.973 0A.975.975 0 0 0 0 .96a.974.974 0 0 0 1.947 0A.975.975 0 0 0 .973 0" class="prefix__cls-3" data-name="Fill 523" transform="translate(26.845 29.404)"/>
+            <path id="prefix__Fill_525" d="M0 0a.976.976 0 0 1 .973.976.089.089 0 0 1 0 .014V.975A.976.976 0 0 0 0 0" class="prefix__cls-3" data-name="Fill 525" transform="translate(31.719 29.374)"/>
+            <path id="prefix__Fill_527" d="M.381.384v.015a.082.082 0 0 0 0-.015.089.089 0 0 0 0-.014v.014" class="prefix__cls-3" data-name="Fill 527" transform="translate(32.308 29.981)"/>
+            <path id="prefix__Fill_529" d="M0 .96A.973.973 0 0 0 .973.015L.97 0A.975.975 0 0 1 0 .96" class="prefix__cls-3" data-name="Fill 529" transform="translate(31.719 30.365)"/>
+            <path id="prefix__Fill_531" d="M0 .976A.972.972 0 0 1 .97.031h.006a.972.972 0 0 1 .969.947A.973.973 0 1 0 0 .976" class="prefix__cls-3" data-name="Fill 531" transform="translate(30.746 29.374)"/>
+            <path id="prefix__Fill_533" d="M.973 0A.973.973 0 0 0 0 .947V.96A.975.975 0 0 1 .973 0" class="prefix__cls-3" data-name="Fill 533" transform="translate(30.746 29.404)"/>
+            <path id="prefix__Fill_535" d="M0 0a.975.975 0 0 1 .97.96V.946A.973.973 0 0 0 0 0" class="prefix__cls-3" data-name="Fill 535" transform="translate(31.719 29.404)"/>
+            <path id="prefix__Fill_537" d="M.97 0A.975.975 0 0 0 0 .96a.97.97 0 0 0 1.941 0A.975.975 0 0 0 .97 0" class="prefix__cls-3" data-name="Fill 537" transform="translate(30.749 29.405)"/>
+            <path id="prefix__Fill_539" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 539" transform="translate(1.468 32.301)"/>
+            <path id="prefix__Fill_541" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 541" transform="translate(5.372 32.301)"/>
+            <path id="prefix__Fill_543" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 543" transform="translate(9.275 32.301)"/>
+            <path id="prefix__Fill_545" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 545" transform="translate(13.179 32.301)"/>
+            <path id="prefix__Fill_547" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 547" transform="translate(17.083 32.301)"/>
+            <path id="prefix__Fill_549" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 549" transform="translate(20.987 32.301)"/>
+            <path id="prefix__Fill_551" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 551" transform="translate(24.89 32.301)"/>
+            <path id="prefix__Fill_553" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 553" transform="translate(28.794 32.301)"/>
+            <path id="prefix__Fill_555" d="M.24 0C.3.367.363.733.436 1.1A.96.96 0 0 0 .529.7.972.972 0 0 0 .24 0" class="prefix__cls-3" data-name="Fill 555" transform="translate(.94 35.513)"/>
+            <path id="prefix__Fill_557" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 557" transform="translate(3.419 35.23)"/>
+            <path id="prefix__Fill_559" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 559" transform="translate(7.323 35.23)"/>
+            <path id="prefix__Fill_561" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 561" transform="translate(11.227 35.23)"/>
+            <path id="prefix__Fill_563" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 563" transform="translate(15.131 35.23)"/>
+            <path id="prefix__Fill_565" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 565" transform="translate(19.034 35.23)"/>
+            <path id="prefix__Fill_567" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 567" transform="translate(22.938 35.23)"/>
+            <path id="prefix__Fill_569" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 569" transform="translate(26.842 35.23)"/>
+            <path id="prefix__Fill_571" d="M0 0a.976.976 0 0 1 .973.976.976.976 0 0 1-.973.975A.976.976 0 0 0 0 0" class="prefix__cls-3" data-name="Fill 571" transform="translate(31.719 35.23)"/>
+            <path id="prefix__Fill_573" d="M1.946.976a.973.973 0 1 0-.973.976.976.976 0 0 0 .973-.976" class="prefix__cls-3" data-name="Fill 573" transform="translate(30.746 35.229)"/>
+            <path id="prefix__Fill_575" d="M1.62.976A.976.976 0 0 0 .645 0 .958.958 0 0 0 0 .256c.148.562.317 1.117.5 1.665a.892.892 0 0 0 .148.031.976.976 0 0 0 .972-.976" class="prefix__cls-3" data-name="Fill 575" transform="translate(1.799 38.157)"/>
+            <path id="prefix__Fill_577" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 577" transform="translate(5.372 38.157)"/>
+            <path id="prefix__Fill_579" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 579" transform="translate(9.275 38.157)"/>
+            <path id="prefix__Fill_581" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 581" transform="translate(13.179 38.157)"/>
+            <path id="prefix__Fill_583" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 583" transform="translate(17.083 38.157)"/>
+            <path id="prefix__Fill_585" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 585" transform="translate(20.987 38.157)"/>
+            <path id="prefix__Fill_587" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 587" transform="translate(24.89 38.157)"/>
+            <path id="prefix__Fill_589" d="M.976 1.951A.976.976 0 1 0 0 .975a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 589" transform="translate(28.794 38.157)"/>
+            <path id="prefix__Fill_591" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 591" transform="translate(3.419 41.085)"/>
+            <path id="prefix__Fill_593" d="M.976 1.952A.976.976 0 1 0 0 .976a.977.977 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 593" transform="translate(7.323 41.085)"/>
+            <path id="prefix__Fill_595" d="M.976 1.952A.976.976 0 1 0 0 .976a.977.977 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 595" transform="translate(11.227 41.085)"/>
+            <path id="prefix__Fill_597" d="M.976 1.952A.976.976 0 1 0 0 .976a.977.977 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 597" transform="translate(15.131 41.085)"/>
+            <path id="prefix__Fill_599" d="M.976 1.952A.976.976 0 1 0 0 .976a.977.977 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 599" transform="translate(19.034 41.085)"/>
+            <path id="prefix__Fill_601" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 601" transform="translate(22.938 41.085)"/>
+            <path id="prefix__Fill_603" d="M.976 1.952A.976.976 0 1 0 0 .976a.977.977 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 603" transform="translate(26.842 41.085)"/>
+            <path id="prefix__Fill_605" d="M.973.976A.976.976 0 0 1 0 1.952.977.977 0 0 0 .979.976.976.976 0 0 0 0 0a.976.976 0 0 1 .973.976" class="prefix__cls-3" data-name="Fill 605" transform="translate(31.719 41.085)"/>
+            <path id="prefix__Fill_607" d="M0 .976A.973.973 0 1 0 .973 0 .976.976 0 0 0 0 .976" class="prefix__cls-3" data-name="Fill 607" transform="translate(30.746 41.085)"/>
+            <path id="prefix__Fill_609" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 609" transform="translate(5.372 44.012)"/>
+            <path id="prefix__Fill_611" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 611" transform="translate(9.275 44.012)"/>
+            <path id="prefix__Fill_613" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 613" transform="translate(13.179 44.012)"/>
+            <path id="prefix__Fill_615" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 615" transform="translate(17.083 44.012)"/>
+            <path id="prefix__Fill_617" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 617" transform="translate(20.987 44.012)"/>
+            <path id="prefix__Fill_619" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 619" transform="translate(24.89 44.012)"/>
+            <path id="prefix__Fill_621" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 621" transform="translate(28.794 44.012)"/>
+            <path id="prefix__Fill_623" d="M.976 0a.976.976 0 1 0 .976.976A.977.977 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 623" transform="translate(7.323 46.94)"/>
+            <path id="prefix__Fill_625" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 625" transform="translate(11.227 46.94)"/>
+            <path id="prefix__Fill_627" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 627" transform="translate(15.131 46.94)"/>
+            <path id="prefix__Fill_629" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 629" transform="translate(19.034 46.94)"/>
+            <path id="prefix__Fill_631" d="M.976 1.952A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.977" class="prefix__cls-3" data-name="Fill 631" transform="translate(22.938 46.94)"/>
+            <path id="prefix__Fill_633" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 633" transform="translate(26.842 46.94)"/>
+            <path id="prefix__Fill_635" d="M.973.976A.976.976 0 0 1 0 1.952.976.976 0 0 0 .979.976.977.977 0 0 0 0 0a.976.976 0 0 1 .973.976" class="prefix__cls-3" data-name="Fill 635" transform="translate(31.719 46.94)"/>
+            <path id="prefix__Fill_637" d="M0 .976A.973.973 0 1 0 .973 0 .976.976 0 0 0 0 .976" class="prefix__cls-3" data-name="Fill 637" transform="translate(30.746 46.941)"/>
+            <path id="prefix__Fill_639" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 639" transform="translate(9.275 49.868)"/>
+            <path id="prefix__Fill_641" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 641" transform="translate(13.179 49.868)"/>
+            <path id="prefix__Fill_643" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 643" transform="translate(17.083 49.868)"/>
+            <path id="prefix__Fill_645" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 645" transform="translate(20.987 49.868)"/>
+            <path id="prefix__Fill_647" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 647" transform="translate(24.89 49.868)"/>
+            <path id="prefix__Fill_649" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 649" transform="translate(28.794 49.868)"/>
+            <path id="prefix__Fill_651" d="M1.921.976A.976.976 0 0 0 .944 0 .964.964 0 0 0 0 .822q.626.549 1.281 1.063a.97.97 0 0 0 .64-.908" class="prefix__cls-3" data-name="Fill 651" transform="translate(11.259 52.796)"/>
+            <path id="prefix__Fill_653" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 653" transform="translate(15.131 52.796)"/>
+            <path id="prefix__Fill_655" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 655" transform="translate(19.034 52.796)"/>
+            <path id="prefix__Fill_657" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 657" transform="translate(22.938 52.796)"/>
+            <path id="prefix__Fill_659" d="M.976 1.951A.976.976 0 1 0 0 .976a.976.976 0 0 0 .976.976" class="prefix__cls-3" data-name="Fill 659" transform="translate(26.842 52.796)"/>
+            <path id="prefix__Fill_661" d="M.973.976A.976.976 0 0 1 0 1.952.976.976 0 0 0 .979.976.976.976 0 0 0 0 0a.976.976 0 0 1 .973.976" class="prefix__cls-3" data-name="Fill 661" transform="translate(31.719 52.796)"/>
+            <path id="prefix__Fill_663" d="M0 .976A.973.973 0 1 0 .973 0 .976.976 0 0 0 0 .976" class="prefix__cls-3" data-name="Fill 663" transform="translate(30.746 52.797)"/>
+            <path id="prefix__Fill_665" d="M.161.007A.929.929 0 0 0 0 .039q.537.373 1.093.723A.963.963 0 0 0 .161.007" class="prefix__cls-3" data-name="Fill 665" transform="translate(13.994 55.717)"/>
+            <path id="prefix__Fill_667" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 667" transform="translate(17.083 55.724)"/>
+            <path id="prefix__Fill_669" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 669" transform="translate(20.987 55.724)"/>
+            <path id="prefix__Fill_671" d="M.976 0a.976.976 0 1 0 .976.976A.977.977 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 671" transform="translate(24.89 55.724)"/>
+            <path id="prefix__Fill_673" d="M.976 0a.976.976 0 1 0 .977.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 673" transform="translate(28.794 55.724)"/>
+            <path id="prefix__Fill_675" d="M.5.026a.954.954 0 0 0-.5.155q.7.3 1.42.561A.963.963 0 0 0 .5.026" class="prefix__cls-3" data-name="Fill 675" transform="translate(19.515 58.625)"/>
+            <path id="prefix__Fill_677" d="M1.951.976A.976.976 0 1 0 0 .976a.965.965 0 0 0 .1.414q.706.2 1.427.37a.959.959 0 0 0 .424-.784" class="prefix__cls-3" data-name="Fill 677" transform="translate(22.939 58.651)"/>
+            <path id="prefix__Fill_679" d="M.976 0a.976.976 0 1 0 .976.976A.976.976 0 0 0 .976 0" class="prefix__cls-3" data-name="Fill 679" transform="translate(26.842 58.651)"/>
+            <path id="prefix__Fill_681" d="M0 0a.976.976 0 0 1 .973.976.976.976 0 0 1-.973.975.976.976 0 0 0 .979-.975A.976.976 0 0 0 0 0" class="prefix__cls-3" data-name="Fill 681" transform="translate(31.719 58.651)"/>
+            <path id="prefix__Fill_683" d="M1.946.976a.973.973 0 1 0-.973.976.976.976 0 0 0 .973-.976" class="prefix__cls-3" data-name="Fill 683" transform="translate(30.746 58.652)"/>
+        </g>
+        <path id="prefix__Fill_686" d="M6.514 0L.383 1.192 0 7.068l5.152 1.959z" class="prefix__cls-10" data-name="Fill 686" transform="translate(17.523 49.651)"/>
+        <g id="prefix__Group_741" data-name="Group 741" transform="translate(4.61 .153)">
+            <path id="prefix__Fill_687" d="M0 12.318L4.448 0l13.8 2.028s.995 10.672.548 10.94S0 12.318 0 12.318" class="prefix__cls-10" data-name="Fill 687" transform="translate(13.643 52.928)"/>
+            <path id="prefix__Fill_689" d="M18.693 0A35.658 35.658 0 0 0 6.046 5.919a17.345 17.345 0 0 0-1.958 3.065 30.461 30.461 0 0 0-1.832 5.451A34.449 34.449 0 0 1 0 19.971l6.046 4.385 3.066.128.214-9.411 8.43-5.451 3.407-6.344z" class="prefix__cls-10" data-name="Fill 689" transform="translate(2.324 37.878)"/>
+            <path id="prefix__Fill_691" d="M2.776 0C2.584.021.607.265.118 1.534-.4 2.869.773 5.235 3.525 6.246a15.69 15.69 0 0 1-.682-3.036A15.925 15.925 0 0 1 2.776 0" class="prefix__cls-10" data-name="Fill 691" transform="translate(15.573 19.733)"/>
+            <path id="prefix__Fill_693" d="M4.225 6.995L3.7 6.8A5.855 5.855 0 0 1 .32 3.875a2.79 2.79 0 0 1-.182-2.134C.68.332 2.778.062 3.016.036L3.34 0l-.026.325a15.566 15.566 0 0 0 .735 6.14l.176.528zM2.753.622C2.23.724.978 1.055.638 1.935A2.307 2.307 0 0 0 .81 3.653 5.111 5.111 0 0 0 3.367 6.08 16.123 16.123 0 0 1 2.753.622z" class="prefix__cls-11" data-name="Fill 693" transform="translate(15.303 19.43)"/>
+            <path id="prefix__Fill_695" d="M.121 0C.313 0 2.3.021 2.917 1.229 3.562 2.5 2.634 4.982 0 6.3a15.875 15.875 0 0 0 .374-3.1A15.913 15.913 0 0 0 .121 0" class="prefix__cls-10" data-name="Fill 695" transform="translate(36.53 18.586)"/>
+            <path id="prefix__Fill_697" d="M0 7.057l.122-.549A15.717 15.717 0 0 0 .49 3.462 15.614 15.614 0 0 0 .24.317L.183 0h.323C.9 0 2.877.066 3.541 1.375A2.783 2.783 0 0 1 3.579 3.5 5.95 5.95 0 0 1 .5 6.806l-.5.25zM.827.552a16.223 16.223 0 0 1 .2 2.923 16.156 16.156 0 0 1-.263 2.573 5.2 5.2 0 0 0 2.3-2.717 2.3 2.3 0 0 0-.007-1.712C2.649.806 1.484.6.827.552z" class="prefix__cls-11" data-name="Fill 697" transform="translate(36.145 18.317)"/>
+            <path id="prefix__Fill_699" d="M19.152 13.2c.38 7.58-3.595 13.966-8.877 14.263S.405 21.854.025 14.273 3.619.308 8.9.011 18.773 5.619 19.152 13.2" class="prefix__cls-10" data-name="Fill 699" transform="translate(18.035 7.123)"/>
+            <path id="prefix__Fill_701" d="M10.161 28.012a8.044 8.044 0 0 1-5.382-2.231C2.03 23.311.253 19.115.025 14.557-.361 6.843 3.734.319 9.154.013 9.292 0 9.433 0 9.571 0a8.029 8.029 0 0 1 5.364 2.232C17.683 4.7 19.461 8.9 19.689 13.456c.386 7.715-3.71 14.244-9.13 14.544-.132.009-.266.012-.398.012zM9.551.54c-.117 0-.237 0-.366.01C4.059.839.191 7.11.562 14.53.784 18.948 2.495 23 5.139 25.383a7.53 7.53 0 0 0 5.034 2.091c.118 0 .237 0 .355-.01 5.126-.288 8.995-6.56 8.624-13.981-.221-4.416-1.932-8.473-4.577-10.851A7.524 7.524 0 0 0 9.551.54z" class="prefix__cls-11" data-name="Fill 701" transform="translate(17.767 6.852)"/>
+            <path id="prefix__Fill_703" d="M14.927.379a12.059 12.059 0 0 0-8.381.886A11.686 11.686 0 0 0 .431 8.248C-.99 13.225 1.46 18.577 2.61 18.5c1.026-.068.36-4.422 3.092-6.282 1.85-1.26 2.959.178 6.337-1.063 2.614-.96 3.239-2.294 4.8-1.941 1.449.329 2.325 1.8 2.991 2.923 1.719 2.895 1.335 5.289 1.86 5.35.82.094 3.692-5.519 1.8-10.535C21.6 1.961 16.175.675 14.927.379" class="prefix__cls-3" data-name="Fill 703" transform="translate(15.487 .883)"/>
+            <path id="prefix__Fill_705" d="M2.85 19.038a1.355 1.355 0 0 1-.959-.624C.558 16.765-.687 12.382.437 8.442A11.647 11.647 0 0 1 6.684 1.3 11.776 11.776 0 0 1 12.079 0a13.8 13.8 0 0 1 3.176.385c5.63 1.334 7.865 4.4 8.748 6.74a12.088 12.088 0 0 1-1.258 10.357c-.285.366-.535.544-.764.544a.442.442 0 0 1-.058 0c-.406-.047-.485-.5-.615-1.262a11.449 11.449 0 0 0-1.445-4.217c-.662-1.112-1.485-2.5-2.819-2.8a1.951 1.951 0 0 0-.437-.052 3.288 3.288 0 0 0-1.714.71l-.008.005a12.56 12.56 0 0 1-2.485 1.266 8.389 8.389 0 0 1-3.043.565c-.295 0-.561-.013-.819-.026h-.019c-.219-.012-.445-.023-.658-.023a2.816 2.816 0 0 0-1.744.518c-1.559 1.063-1.953 3.013-2.241 4.437C3.66 18.22 3.5 19 2.893 19.037zm9.232-18.5a11.25 11.25 0 0 0-5.148 1.233A11.124 11.124 0 0 0 .956 8.589a11.943 11.943 0 0 0 1.352 9.487c.221.273.409.43.517.43a.084.084 0 0 0 .033-.006c.2-.013.362-.812.492-1.454v-.006c.305-1.515.723-3.589 2.465-4.774a3.356 3.356 0 0 1 2.051-.61c.223 0 .455.012.679.023.259.013.525.027.816.027a7.869 7.869 0 0 0 2.849-.533 12.133 12.133 0 0 0 2.39-1.221 3.811 3.811 0 0 1 2.013-.8 2.464 2.464 0 0 1 .548.063c1.561.354 2.486 1.91 3.162 3.046a12.1 12.1 0 0 1 1.513 4.4 5.155 5.155 0 0 0 .174.8 2.737 2.737 0 0 0 .754-1.012 11.789 11.789 0 0 0 .736-9.134C22.663 5.1 20.531 2.187 15.131.908a13.258 13.258 0 0 0-3.049-.37z" class="prefix__cls-11" data-name="Fill 705" transform="translate(15.222 .615)"/>
+            <path id="prefix__Fill_707" d="M13.839 0a15.17 15.17 0 0 1-.426 4.269c-1.982 8-10.027 11.77-11.795 12.551L0 28.487l7.836 7.239L29.723 34.7l5.194-9.879-5.652-15.564L23 3.63q-.156-1.459-.309-2.917a7.288 7.288 0 0 1-4.727 1.16A7.261 7.261 0 0 1 13.839 0" class="prefix__cls-10" data-name="Fill 707" transform="translate(9.222 32.939)"/>
+            <path id="prefix__Fill_709" d="M8.284 31.269a29.021 29.021 0 0 1-3.426-.2c-2.48-.294-3.915-.512-4.582-1.571-.692-1.1 0-2.409 1.147-4.581.43-.814.917-1.736 1.435-2.831A31.421 31.421 0 0 0 5.03 16.24a13.6 13.6 0 0 1 .721-2.164c0-.007.094-.191.245-.467.012-.022.287-.526.606-1.011 2.593-3.958 9.288-6.209 9.572-6.3 1.069-.354 1.958-.579 2.671-.76 1.527-.387 2.369-.6 3.015-1.533a4.989 4.989 0 0 0 .6-3.692.268.268 0 0 1 .23-.313.264.264 0 0 1 .31.228 5.5 5.5 0 0 1-.693 4.08c-.761 1.1-1.726 1.343-3.325 1.749-.705.178-1.584.4-2.634.748-.068.023-6.8 2.287-9.292 6.088-.306.466-.581.969-.584.974-.144.261-.23.437-.23.439a13.072 13.072 0 0 0-.69 2.076 31.81 31.81 0 0 1-2.2 5.931c-.522 1.106-1.013 2.034-1.446 2.853C.806 27.234.2 28.372.731 29.208c.51.808 1.669 1.024 4.19 1.324a28.473 28.473 0 0 0 7.3-.074.269.269 0 1 1 .074.533 29.059 29.059 0 0 1-4.009.277" class="prefix__cls-11" data-name="Fill 709" transform="translate(.331 32.67)"/>
+            <path id="prefix__Fill_711" d="M9.939 28.668a25.332 25.332 0 0 0 6.514-.128c2.4-.358 3.782-.607 4.344-1.617.661-1.191-.258-2.675-2.044-5.877-3.613-6.479-4-7.979-4.9-9.133s-.381-.445-.806-.852C11.212 9.3 5.318 6.27 5.318 6.27 1.915 4.521.948 3.96.389 2.693A5.079 5.079 0 0 1 .049 0" class="prefix__cls-10" data-name="Fill 711" transform="translate(31.859 33.652)"/>
+            <path id="prefix__Fill_713" d="M12.967 29.359a25.423 25.423 0 0 1-2.789-.153.269.269 0 0 1 .058-.535 25.087 25.087 0 0 0 6.446-.127c2.318-.344 3.65-.584 4.148-1.481.547-.985-.21-2.338-1.719-5.033l-.325-.582c-1.9-3.4-2.9-5.421-3.565-6.759a13.94 13.94 0 0 0-1.311-2.339c-.032-.037-.392-.451-.781-.824C11.345 9.811 5.523 6.81 5.464 6.78 2.108 5.056 1.017 4.445.412 3.073A5.317 5.317 0 0 1 .05.237.264.264 0 0 1 .352 0a.27.27 0 0 1 .233.3A4.763 4.763 0 0 0 .9 2.855C1.41 4 2.266 4.533 5.71 6.3c.241.124 5.95 3.067 7.791 4.836.429.412.808.854.824.872a14.1 14.1 0 0 1 1.375 2.443c.662 1.333 1.664 3.348 3.553 6.734l.324.582c1.606 2.87 2.412 4.31 1.719 5.557-.621 1.119-2.056 1.382-4.539 1.752a25.646 25.646 0 0 1-3.795.283" class="prefix__cls-11" data-name="Fill 713" transform="translate(31.59 33.381)"/>
+            <path id="prefix__Fill_715" d="M.269 14.207a.257.257 0 0 1-.048 0A.271.271 0 0 1 0 13.889a37.639 37.639 0 0 0 .6-5.707A37.665 37.665 0 0 0 0 .318a.27.27 0 0 1 .53-.1A38.279 38.279 0 0 1 1.145 8.2a38.24 38.24 0 0 1-.611 5.789.27.27 0 0 1-.265.22" class="prefix__cls-12" data-name="Fill 715" transform="translate(11.807 54.854)"/>
+            <path id="prefix__Fill_717" d="M.892 14.206a.27.27 0 0 1-.265-.22A38.126 38.126 0 0 1 .626.22a.27.27 0 0 1 .53.1 37.526 37.526 0 0 0 0 13.571.271.271 0 0 1-.216.309.257.257 0 0 1-.048 0" class="prefix__cls-12" data-name="Fill 717" transform="translate(41.359 54.855)"/>
+            <path id="prefix__Fill_719" d="M.448 0L.32 5.323" class="prefix__cls-10" data-name="Fill 719" transform="translate(4.517 63.512)"/>
+            <path id="prefix__Fill_721" d="M.32 5.86H.313a.269.269 0 0 1-.262-.275L.179.262a.269.269 0 0 1 .538.013L.589 5.6a.268.268 0 0 1-.269.26" class="prefix__cls-11" data-name="Fill 721" transform="translate(4.517 63.244)"/>
+            <path id="prefix__Fill_723" d="M.342 0l.085 6.6" class="prefix__cls-10" data-name="Fill 723" transform="translate(47.673 62.277)"/>
+            <path id="prefix__Fill_725" d="M.427 7.137a.268.268 0 0 1-.269-.265L.073.272A.268.268 0 0 1 .338 0 .268.268 0 0 1 .61.265l.09 6.6a.268.268 0 0 1-.265.272z" class="prefix__cls-11" data-name="Fill 725" transform="translate(47.673 62.009)"/>
+            <path id="prefix__Fill_727" d="M2.813 0A5.881 5.881 0 0 1 2.1.571C.659 1.59.052 1.693 0 2.23c-.037.421.32.522.98 1.729.473.866.47 1.146.679 1.182.519.1.835-1.548 2.018-3.243.126-.182.252-.347.384-.507" class="prefix__cls-13" data-name="Fill 727" transform="translate(31.432 57.516)"/>
+            <path id="prefix__Fill_729" d="M1.984 5.611a.594.594 0 0 1-.1-.009c-.264-.046-.355-.25-.492-.556-.079-.177-.19-.423-.374-.762a8.517 8.517 0 0 0-.68-1.056A1.13 1.13 0 0 1 0 2.4c.045-.487.39-.7 1.016-1.079.312-.191.7-.428 1.192-.775A5.631 5.631 0 0 0 2.9 0l.37.39a6.021 6.021 0 0 1-.745.595c-.506.359-.9.6-1.222.8-.562.343-.741.461-.76.668-.011.119.028.184.232.459a9.163 9.163 0 0 1 .716 1.116c.194.355.31.614.393.8a1.746 1.746 0 0 0 .133.265 7.138 7.138 0 0 0 .524-1.006A14.146 14.146 0 0 1 3.728 1.94c.13-.187.26-.36.4-.525l.414.342c-.127.155-.249.315-.37.489a13.66 13.66 0 0 0-1.149 2.069c-.365.769-.615 1.3-1.039 1.3" class="prefix__cls-11" data-name="Fill 729" transform="translate(31.163 57.321)"/>
+            <path id="prefix__Fill_731" d="M6.561 10.642c-.541 1-.43 1.361-.663 1.407-.507.1-.864-1.615-2.35-3.625-.157-.211-.326-.426-.51-.642a7.8 7.8 0 0 0-.74-.749 8.3 8.3 0 0 1-.805-.86C.577 5.043.068 4.416.006 3.467A3.279 3.279 0 0 1 1.1.848 3.365 3.365 0 0 1 2.525.132 4.419 4.419 0 0 1 4.533.1 3.26 3.26 0 0 1 6.4.983a3.269 3.269 0 0 1 .758 1.735A5.1 5.1 0 0 1 7.19 4.25C7 5.494 6.061 6.056 4.948 7l-1.31-1.13.112-.078A4.235 4.235 0 0 0 5.5 3.909a2.012 2.012 0 0 0 .117-1 1.634 1.634 0 0 0-.37-.861A1.981 1.981 0 0 0 3.615 1.6c-.228.012-1.62.088-1.907.884a1.667 1.667 0 0 0 .067.986 3.318 3.318 0 0 0 .446.955 10.768 10.768 0 0 0 1.384 1.454c.221.216.312.3.437.413.348.31.637.5.906.71 1.106.86 1.714 1.32 1.987 1.505a.852.852 0 0 1 .39.423c.154.446-.292.832-.764 1.711" class="prefix__cls-13" data-name="Fill 731" transform="translate(31.948 50.483)"/>
+            <path id="prefix__Fill_733" d="M6.118 12.592c-.4 0-.658-.5-1.043-1.262A16.551 16.551 0 0 0 3.6 8.853c-.17-.229-.333-.434-.5-.625a7.167 7.167 0 0 0-.673-.687 8.521 8.521 0 0 1-.875-.927L1.546 6.6C.628 5.468.074 4.782.007 3.754A3.534 3.534 0 0 1 1.189.914 3.59 3.59 0 0 1 2.725.142 4.327 4.327 0 0 1 3.858 0a4.861 4.861 0 0 1 1 .1 3.535 3.535 0 0 1 2.006.964 3.538 3.538 0 0 1 .825 1.866 5.379 5.379 0 0 1 .037 1.631A4.031 4.031 0 0 1 5.9 7.054l-.1.086-.147.12c.912.708 1.454 1.118 1.708 1.29a1.1 1.1 0 0 1 .5.562c.148.428-.084.789-.377 1.247-.115.18-.258.4-.406.676a5.3 5.3 0 0 0-.429 1.021c-.076.24-.147.467-.418.521a.515.515 0 0 1-.113.015zM3.863.539a3.906 3.906 0 0 0-1 .122 3.066 3.066 0 0 0-1.321.657 3.028 3.028 0 0 0-1 2.4c.055.862.539 1.46 1.418 2.545a8.088 8.088 0 0 0 .788.842l.019.017a7.781 7.781 0 0 1 .743.755c.173.2.344.415.522.656a16.92 16.92 0 0 1 1.515 2.537l.009.017a5.462 5.462 0 0 0 .532.927l.018-.055.019-.059v-.006a5.854 5.854 0 0 1 .466-1.11c.152-.281.3-.514.427-.711.259-.405.381-.608.32-.785a.561.561 0 0 0-.255-.267c-.287-.194-.826-.6-1.86-1.4l-.009.007-.167-.148c-.073-.057-.148-.113-.228-.171L4.8 7.3l-.019-.014c-.2-.15-.412-.306-.652-.52-.125-.11-.217-.2-.446-.422a10.457 10.457 0 0 1-1.422-1.5A3.642 3.642 0 0 1 1.784 3.8a1.907 1.907 0 0 1-.06-1.14C2.025 1.823 3.2 1.634 3.867 1.6h.023c.1 0 .208-.009.33-.009a1.906 1.906 0 0 1 1.5.546 1.911 1.911 0 0 1 .437.995 2.309 2.309 0 0 1-.129 1.141 4.171 4.171 0 0 1-1.685 1.888l.877.758c.1-.083.2-.163.3-.242l.043-.035c.864-.707 1.489-1.217 1.635-2.163a4.884 4.884 0 0 0-.032-1.442 3.008 3.008 0 0 0-.69-1.6A3.025 3.025 0 0 0 4.75.632a4.294 4.294 0 0 0-.887-.093zm.367 1.584c-.12 0-.23.006-.328.012-.9.049-1.53.314-1.673.707a1.48 1.48 0 0 0 .073.821 3.123 3.123 0 0 0 .413.882 9.411 9.411 0 0 0 1.2 1.264 3.944 3.944 0 0 0 1.606-1.72 1.774 1.774 0 0 0 .1-.875 1.39 1.39 0 0 0-.3-.722 1.435 1.435 0 0 0-1.091-.369z" class="prefix__cls-11" data-name="Fill 733" transform="translate(31.678 50.214)"/>
+            <path id="prefix__Fill_735" d="M0 0a8.717 8.717 0 0 0 5.9 2.321 8.7 8.7 0 0 0 5.791-2.3" class="prefix__cls-10" data-name="Fill 735" transform="translate(21.571 37.644)"/>
+            <path id="prefix__Fill_737" d="M6.124 2.859A8.941 8.941 0 0 1 .086.465.269.269 0 0 1 .453.073a8.4 8.4 0 0 0 5.671 2.248h.041A8.4 8.4 0 0 0 11.774.093a.269.269 0 1 1 .367.393 8.952 8.952 0 0 1-5.972 2.372h-.045" class="prefix__cls-11" data-name="Fill 737" transform="translate(21.302 37.375)"/>
+            <path id="prefix__Fill_739" d="M15.689 7.709c.216.969.8 3.573-.733 5.678-2.1 2.893-6.4 2.38-6.975 2.3C4.792 15.26.084 12.752 0 7.981A7.845 7.845 0 0 1 7.709 0c4.913-.086 7.372 4.972 7.98 7.708" data-name="Fill 739" transform="translate(22.323 49.53)" style="fill:rgba(218,206,253,.5);mix-blend-mode:multiply;isolation:isolate"/>
+        </g>
+    </g>
+</svg>

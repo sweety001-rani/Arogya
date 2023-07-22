@@ -1,0 +1,56 @@
+.header{
+    background-color: green;
+    color: white;
+    height: 50px;
+    margin-top: 0;
+    justify-content: center;
+}
+.image{
+    border-radius: 5%;
+}
+input{
+    display: inline-block;
+    height: 30px;
+    width: 60px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border-color: black;
+    background-color: whitesmoke;
+    text-align: center;
+}
+input:hover {
+    border-color: rgb(6, 33, 91);
+    color: blue;
+    border: 30px;
+}
+.patient_information{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+span{
+    border-radius: 5px;
+    border-color: black;
+    background-color:whitesmoke;
+    margin-right: 20px;
+    display: inline-block;
+    margin-top: 10px;
+    height: 150px;
+    width: 300px;
+}
+#phone{
+    width: 200px;
+    background-color: rgb(240, 246, 240);
+    color: black;
+}
+button{
+    display: inline-block;
+    background-color: green;
+    height: 50px;
+    width: 500px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 10px;
+}

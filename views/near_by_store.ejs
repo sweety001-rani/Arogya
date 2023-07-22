@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNIKON</title>
+    <link rel="stylesheet" href="/css/near_by_store.css">
+    <script src="https://kit.fontawesome.com/c3f9c16a46.js" crossorigin="anonymous"></script>
+    
+</head>
+<body>
+
+    <!-- Home page html code -->
+    
+    <div class="main">
+        <div class="navbar">
+            <h1>Want to search near by stores here all about!!</h1>
+            <div class="search">
+               
+                <form action="/searchbycity" method="post">
+                 <input class="srch" type="text" name="city" placeholder="search by city">
+                 <button class="btn" type="submit">search</button>
+                </form>    
+             </div>
+        </div>
+        
+        
+        <div class="content">
+            <div class="item-container">
+
+                <%
+                var itemsPerPage = 4;
+                const startIndex = (pagenumber - 1) * itemsPerPage;
+                let endIndex = startIndex + itemsPerPage;
+                const itemsToDisplay = itemlist.slice(startIndex, endIndex);
+               %>
+            <% itemsToDisplay.forEach(item => { %>
+                <div class="item1">
+                    <img   src=<%=item?.img%> alt= <%=item?.name_of_store%> >
+                    <div class="item-details">
+                        <h3  ><%= item?.name_of_store %></h3>
+                        <p >Address: <%= item?.address %></p>
+                        <p >City: <%= item?.city%></p>
+                        <p >Pincode: <%= item?.pin %></p>
+                    </div>
+                 </div>
+            <% }); %>
+                <%if(itemsToDisplay.length!=0){%>
+                <div class="pagination" id="overlay">
+                   <form action="/next" method="post">
+                    <button type="submit">>></button>
+                   </form>
+                </div>
+                <% }%>
+                <%if(itemsToDisplay.length==0){%>
+                    <h1>opps!! NO further data found </h1>
+               <% }%>
+            </div>
+            
+        </div>
+    </div>
+</body>
+</html>
